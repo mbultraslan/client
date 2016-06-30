@@ -1,0 +1,64 @@
+<?php
+$lang['project'] = 'مشاريع';
+$lang['projects'] = 'مشاريع';
+$lang['all_project'] = 'جميع المشاريع';
+$lang['new_project'] = 'مشروع جديد';
+$lang['project_name'] = 'اسم المشروع';
+$lang['project_cost'] = 'ميزانية';
+$lang['demo_url'] = 'رابط تجريبي';
+$lang['cancel'] = 'إلغاء';
+$lang['notify_client'] = 'اخطار العميل';
+$lang['project_emails'] = 'ايميل المشروع';
+$lang['project_details'] = 'تفاصيل المشروع';
+$lang['milestones'] = 'معالم';
+$lang['milestone'] = 'الخطواط العريضة للمشروع';
+$lang['milestone_name'] = 'اسم الخطوط العريضة للمشروع';
+$lang['add_milestone'] = 'خطوط عريضة جديدة';
+$lang['new_task'] = 'مهام جديدة';
+$lang['generate_invoice'] = 'Generate Invoice';
+$lang['income_today'] = 'دخل اليوم';
+$lang['expense_today'] = 'حساب اليوم';
+$lang['recent_projects'] = 'المشاريع الأخيرة';
+$lang['activity_update_project'] = 'تحديث تفاصيل المشروع';
+$lang['update_project'] = 'تم تحديث معلومات المشروع بنجاح';
+$lang['activity_save_project'] = 'حفظ تفاصيل المشروع';
+$lang['save_project'] = 'تم حفظ معلومات المشروع بنجاح';
+$lang['activity_project_attachfile_deleted'] = 'تم حذف مرفق المشروع';
+$lang['activity_new_project_comment'] = 'تعليقات المشروع الجديدة';
+$lang['activity_new_project_attachment'] = 'مرفق المشروع الجديد';
+$lang['update_milestone'] = 'تم تحديث معلومات الخطوط العريضة للمشروع بنجاح';
+$lang['activity_updated_milestones'] = 'تحديث الخطوط العريضة للمشروع';
+$lang['create_milestone'] = 'تم انشاء معلومات الخطوط العريضة  للمشروع بنجاح';
+$lang['activity_added_new_milestones'] = 'انشاء الخطوط العريضة للمشروع';
+$lang['delete_milestone'] = 'حذف معلومات الخطوط العريضة للمشروع بنجاح';
+$lang['activity_delete_milestones'] = 'حذف الخطوط العريضة للمشروع';
+$lang['activity_project_deleted'] = 'تم حذف المشروع';
+$lang['activity_new_invoice_form_project'] = 'فاتورة جديدة من مشروع';
+$lang['activity_copied_project'] = 'نسخ المشروع';
+$lang['copied_project'] = 'تم نسخ معلومات المشروع بنجاح';
+$lang['assigned_project'] = 'المشروع المخصص';
+$lang['project_comments'] = 'تعليقات المشروع';
+$lang['project_attachment'] = 'مرفق المشروع';
+$lang['responsible_milestone'] = 'الخطوط العريضة للمشروع';
+$lang['complete_projects'] = 'مشاريع كاملة';
+$lang['clone'] = 'استنساخ';
+$lang['clone_project'] = 'استنساخ المشروع';
+$lang['start_time'] = 'وقت البدء';
+$lang['end_time'] = 'وقت الانتهاء';
+$lang['edit_reason'] = 'السبب في تحرير';
+$lang['activity_tasks_timer_off'] = 'تم تعطيل نشاط الموقت';
+$lang['activity_tasks_timer_on'] = 'نشاط الموقت';
+$lang['task_timer_on'] = 'تم تشغيل الموقت بنجاح';
+$lang['task_timer_off'] = 'تم تعطيل التوقيت بنجاح';
+$lang['time_spend'] = 'فترة البقاء';
+$lang['timer_status'] = 'وضع التوقيت';
+$lang['on'] = 'تشغيل';
+$lang['off'] = 'إيقاف';
+$lang['timesheet'] = 'ساعات العمل';
+$lang['manual_entry'] = 'الإدخال اليدوي';
+$lang['timer_update'] = 'تم تحديث معلومات الموقت بنجاح';
+$lang['my_project'] = 'مشروعي';
+
+
+/* End of file projects_lang.php */
+/* Location: ./application/language/arabic/projects_lang.php */
